@@ -1,0 +1,7 @@
+float64 min_dist
+float64 param1
+float64 param2
+float64 min_radius
+float64 max_radius
+---
+bool response

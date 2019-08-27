@@ -1,0 +1,13 @@
+int32 minThreshold
+int32 maxThreshold
+bool filterByArea
+int32 minArea
+int32 maxArea
+bool filterByCircularity
+float64 minCircularity
+bool filterByConvexity
+float64 minConvexity
+bool filterByInertia
+float64 minInertiaRatio
+---
+bool response
